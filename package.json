@@ -1,0 +1,21 @@
+{
+  "name": "multi-compression-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg/core": "^0.11.0",
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "detect-file-type": "^0.2.8",
+    "fs-extra": "^11.1.0",
+    "googleapis": "^110.0.0",
+    "sharp": "^0.31.3",
+    "tinify": "^1.7.1"
+  }
+}
